@@ -33,7 +33,7 @@ I am currently a computer science student at UW-Madison.
 - A tool for people who fly fish that allows them to track their catches and view metrics regarding their success.
 - This was built both for my interest in fly fishing and to explore certain technologies.
   - I was able to look into JavaFX further than the surface level information that I acquired from coursework.
-  - I learned the basics of incorporating a database with SQLite, which provided my a good segway to learning PostgreSQL.
+  - I learned the basics of incorporating a database with SQLite, which provided me with a good segway to learning PostgreSQL.
   
 [FinanceTracker](https://github.com/TylerSpaeth/FinanceTracker)
 - A website that allows users to track their finances and summarizes the total over different time frames.
