@@ -37,7 +37,7 @@ I am currently a computer science student at UW-Madison.
   
 [FinanceTracker](https://github.com/TylerSpaeth/FinanceTracker)
 - A website that allows users to track their finances and summarizes the total over different time frames.
-- This is currently hosted live at [https://financetracker.software](htts://financetracker.software).
+- This is currently hosted live at [https://financetracker.software](https://financetracker.software).
 - I worked on this project in order to gain exposure to full stack web development.
 - Over the course of the project I learned a number of things including:
   - .Net Minimal APIs
