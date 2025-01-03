@@ -11,7 +11,7 @@ I am currently a computer science student at UW-Madison.
 	  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 	  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/></code>
   <br/>
   Frameworks<br/>
 	  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
@@ -25,10 +25,19 @@ I am currently a computer science student at UW-Madison.
   <br/>
   Other<br/>
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="50"/></code>
 
 </div>
 
 ## Interesting things I have worked on:
+[Sprocket](https://github.com/TylerSpaeth/Sprocket)
+- A framework for creating 2D games and applications developed in C++ with OpenGL as the rendering API.
+- This is a project I have been working on to get a better understanding of how things like Unreal Engine and Unity work under the hood.
+- This project has been a great learning experience.
+  - It has required careful consideration how I lay out the architecture, as I've had to deal with the good and bad consequences of those decisions as the project has grown.
+  - I have had to prioritize performance much more than in anything else I have worked on.
+  - Physics/Collision detection has been a major focus for optimization and has exposed me to a number of different approaches to handling the problem.
+
 [FishingApp](https://github.com/TylerSpaeth/FishingApp)
 - A tool for people who fly fish that allows them to track their catches and view metrics regarding their success.
 - This was built both for my interest in fly fishing and to explore certain technologies.
