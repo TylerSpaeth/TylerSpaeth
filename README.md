@@ -1,7 +1,5 @@
 # Tyler Spaeth
 
-I am currently a computer science student at UW-Madison.  
-
 ## Skills
 <div align="left">
   Languages<br/>
